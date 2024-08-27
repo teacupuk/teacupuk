@@ -9,3 +9,5 @@
 - 💬 Ask me about **F1 and Motorsports in General**
 - 📫 How to reach me: [@tp97.jpg](https://www.instagram.com/tp97.jpg/) on Instagram
 - ⚡ Fun fact: I spent 4 Days and 7 Hours in planes last year
+
+** my previous GitHub [@thomaspickup](https://github.com/thomaspickup) was lost **
