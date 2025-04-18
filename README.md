@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Thomas.</h2>
 <p align="center">
-  <a href="https://duckshaw.co.uk">Blog</a> •
+  <a href="https://viusao.net">Blog</a> •
   <a href="https://www.instagram.com/tp97.jpg/">Instagram</a>
 </p>
 
